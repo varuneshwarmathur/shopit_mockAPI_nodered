@@ -1,2 +1,12 @@
-# shopit_mockAPI_nodered
-The nodered flow contains the Mock - Product/search/review api
+# SHOPIT_MOCK_PRODUCTAPI #
+This API will generate a product json response when invoked from an external spurce
+
+# SHOPIT_MOCK_PRODUCTAPI #
+
+This is a Node-Red flow. Please import the "shopitflow.json" to your node-red UI.
+URL will work with the following structure "/getProduct/bluejeans34"
+
+
+## Contact And Details
+Varuneshwar Nath Mathur
+mathur_varunesh@yahoo.com
